@@ -1,11 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m a 3D Artist and Developer
-- 🌱 I’m currently working on tools for Artists
-- 👯 I’m looking to collaborate on Video Games and Films
+- 🔭 I’m a Designer, 3D Artist and Developers
+- 👯 Reach out to discuss what I can do for you
 
-### Contact Me 
-- [Email](mailto:ewanbryant43@gmail.com)
-- [Artstation](https://www.artstation.com/ewanb)
-- [Behance](https://www.behance.net/ewanbryant)
 
