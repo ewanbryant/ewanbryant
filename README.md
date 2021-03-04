@@ -1,6 +1,6 @@
-### Hi there 👋
+### About
 
-- 🔭 I’m a Designer, 3D Artist and Developers
-- 👯 Reach out to discuss what I can do for you
+- 🔭 I’m a Designer, 3D Artist and Developer
+- 👯 Open to projects
 
 
